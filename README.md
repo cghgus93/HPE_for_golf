@@ -1,6 +1,4 @@
-﻿# HPE_for_golf
-
-# litepose_pytorch
+﻿# litepose_pytorch
 ### https://github.com/mit-han-lab/litepose.git
 
 # movenet_pytorch
