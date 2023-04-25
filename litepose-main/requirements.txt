@@ -1,5 +1,6 @@
 EasyDict==1.7
-opencv-python
+# opencv-python
+# python version issue -> pip install opencv-contrib-python==3.4.1.15
 Cython
 scipy
 pandas
