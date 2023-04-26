@@ -6,3 +6,6 @@
 
 # openpose_pytorch
 ### https://github.com/Hzzone/pytorch-openpose.git
+
+# DCPose
+### https://github.com/Pose-Group/DCPose.git
